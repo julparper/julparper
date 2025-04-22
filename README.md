@@ -2,13 +2,13 @@
 
 ```mermaid
 ---
-title: "Grades"
+title: "Just me"
 ---
 radar-beta
-  axis m["Math"], s["Science"], e["English"]
-  axis h["History"], g["Geography"], a["Art"]
-  curve a["S1"]{85, 90, 80, 70, 75, 90}
-  curve b["S2"]{70, 75, 85, 80, 90, 85}
+  axis m["SAP"], s["Kotlin"], e["Java"]
+  axis h["Networks"], g["Javascript"], a["Other"]
+  curve a["Grade1"]{85, 90, 80, 70, 75, 90}
+  curve b["Grade2"]{70, 75, 85, 80, 90, 85}
 
   max 100
   min 0
